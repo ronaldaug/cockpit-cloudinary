@@ -10,6 +10,8 @@ Cloudinary upload addon for cockpit cms
 ## Request
 - Route to request = "/api/cloudinary"
 
+`Make sure to allow this request route when generating API token in backend`
+
 ### Upload example
 ```html
 <form id="myForm">
